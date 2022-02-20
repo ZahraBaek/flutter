@@ -1,0 +1,12 @@
+{
+    "totalcases": "Total cases",
+    "totaldeaths": "Total deaths",
+    "todaycases": "Today's cases",
+    "todaydeaths": "Today's deaths",
+    "totalrecovered": "Total recovered",
+    "todayrecovered": "Today's recovered",
+    "totaltests": "Total Test",
+    "testmillion": "Tests / million",
+    "mywallet": "My wallet"
+
+}

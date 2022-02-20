@@ -1,0 +1,11 @@
+{
+    "totalcases": "Total des cas",
+    "totaldeaths": "Total des décès",
+     "todaycases": "Nombre de cas ",
+     "todaydeaths": "Nombre de décès ",
+     "totalrecovered": "Total des guéris",
+     "todayrecovered": "Nombre de cas guéris",
+     "totaltests": "Total des Tests",
+     "testsmillion": "Tests / million",
+     "mywallet": "Mon portefeuille"
+}
